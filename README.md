@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy WetZap</a> 👋</h1>
-</div>
+<div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/800px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg">
 <!--
 **WetZap/WetZap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
