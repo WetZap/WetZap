@@ -2,11 +2,13 @@
 <h1 align="center">Hola, soy WetZap</a> 👋</h1>
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/800px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <!--
 **WetZap/WetZap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
