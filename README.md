@@ -2,6 +2,9 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/c6/ad/84/c6ad8481cee4f75d464b2a14040d06c9.gif" alt="Bocchi" width="300"/>
+  <img src="https://i.pinimg.com/originals/c6/ad/84/c6ad8481cee4f75d464b2a14040d06c9.gif" alt="Coffe" width="300"/>
+
+  
 </div>
 
 **Nunca mires atrás** - Always moving forward in tech! 🚀
