@@ -42,7 +42,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un apasionado estudiante de física mientros estudio un poco de **data science** y **cybersecurity**. Me encanta explorar nuevas tecnologías y compartir mi proceso de aprendizaje mientras tomo mucho café (a veces demasiado)☕.
+Soy un estudiante de física apasionado por los ordenadores, estudio un poco de **data science** y **cybersecurity**. Me encanta explorar nuevas tecnologías y compartir mi proceso de aprendizaje mientras tomo mucho café (a veces demasiado)☕.
 
 [- 🔭 Actualmente trabajando en: **Prácticas-Métodos** y explorando el mundo del análisis de datos]: #
 - 🌱 Aprendiendo: Data science y cybersecurity desde los fundamentos
