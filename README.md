@@ -1,11 +1,21 @@
 # ¡Hola! Soy Jorge (WetZap) 👋☕
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c6/ad/84/c6ad8481cee4f75d464b2a14040d06c9.gif" alt="Bocchi" width="300"/>
-  <img src="https://i.pinimg.com/originals/c6/ad/84/c6ad8481cee4f75d464b2a14040d06c9.gif" alt="Coffe" width="300"/>
 
-  
+<table>
+  <tr>
+    <td align="left" width="600">
+      
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jorgedelriolopez&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+  </td>
+    <td align="right" width="550">
+      <img src="https://i.pinimg.com/originals/c6/ad/84/c6ad8481cee4f75d464b2a14040d06c9.gif" alt="Bocchi" width="500"/>
+    </td>
+  </tr>
+</table>
 </div>
+
 
 **Nunca mires atrás** - Always moving forward in tech! 🚀
 ```
@@ -54,6 +64,10 @@ Soy un apasionado estudiante de física mientros estudio un poco de **data scien
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=white&labelColor=4B0082)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/6b/fd/01/6bfd0122dcac5e6509aa9cc1d938465a.jpg" alt="Python" width="300"/>
+</div>
 
 ### Aprendiendo
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
