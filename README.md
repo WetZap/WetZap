@@ -42,14 +42,13 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un estudiante de física apasionado por los ordenadores, estudio un poco de **data science** y **cybersecurity**. Me encanta explorar nuevas tecnologías y compartir mi proceso de aprendizaje mientras tomo mucho café (a veces demasiado)☕.
+Soy un estudiante de física apasionado por los ordenadores, además estudio un poco de **ciencia de datos** y **cyberseguridad**. Me encanta explorar nuevas tecnologías y compartir mi proceso de aprendizaje mientras tomo mucho café (a veces demasiado)☕.
 
-[- 🔭 Actualmente trabajando en: **Prácticas-Métodos** y explorando el mundo del análisis de datos]: #
-- 🌱 Aprendiendo: Data science y cybersecurity desde los fundamentos
-- 🎯 Intereses: Machine learning, ethical hacking, automation, y los ordenadores.  
+- 🌱 Aprendiendo: Ciencia de datos y ciberseguridad desde los fundamentos
+- 🎯 Intereses: Machine learning, hacking ético, automatización, los ordenadores, videojuegos y mucho más,  
 - 💻 Mi setup: VS Code como IDE principal en Linux
 - 📚 Objetivo: Compartir mi journey de aprendizaje y conectar con la comunidad tech
-- ⚗️ Experimento con: Python, R, herramientas de pentesting, y metodologías de investigación
+- ⚗️ Experimento con: Python, herramientas de pentesting, herramientas de osint, y metodologías de investigación
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/6a/de/3d/6ade3d7fd1688f0f3ebd788afb98baaf.jpg" alt="Rem coding" width="300"/>
@@ -90,7 +89,7 @@ Soy un estudiante de física apasionado por los ordenadores, estudio un poco de 
 
 ## 🚀 Mi Journey
 
-Actualmente estoy en proceso de aprendizaje en ambas áreas - Ciencia de datos, Ciberseguridad y Física. Cada día es una nueva oportunidad para:
+Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de datos, Ciberseguridad y Física. Cada día es una nueva oportunidad para:
 
 - 📊 Explorar datasets y practicar análisis de datos
 - 🔐 Entender conceptos de seguridad informática
@@ -99,11 +98,11 @@ Actualmente estoy en proceso de aprendizaje en ambas áreas - Ciencia de datos, 
 
 ## 🌟 Cuando no estoy programando...
 
-- 🏋️‍♂️ Entrenando en el gym y optimizando rutinas
-- 📚 Estudiando y rezando a Fortuna
+- 🏋️‍♂️ Entrenando en el gimnasio y optimizando rutinas
+- 📚 Estudiando y rezando a la diosa Fortuna
 - ☕ Poniendo mi corazón al limite
 - 🔧 Configurando y personalizando mi entorno de desarrollo
--  Disfrutando de juegos mientras desconecto
+-   Disfrutando de juegos mientras desconecto
 
 ## 💬 Conecta Conmigo
 
