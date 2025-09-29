@@ -103,6 +103,12 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
 - ☕ Poniendo mi corazón al limite
 - 🔧 Configurando y personalizando mi entorno de desarrollo
 -   Disfrutando de juegos mientras desconecto
+-  󱉟 Leer comics, mangas y ver animes
+
+
+<div align="center">
+  <img src="https://github.com/WetZap/WetZap/blob/main/Images/Frieren.jpg" alt="Berserk" width="300"/>
+</div>  
 
 ## 💬 Conecta Conmigo
 
