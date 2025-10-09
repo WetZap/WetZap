@@ -44,11 +44,11 @@
 
 Soy un estudiante de física apasionado por los ordenadores, además estudio un poco de **ciencia de datos** y **cyberseguridad**. Me encanta explorar nuevas tecnologías y compartir mi proceso de aprendizaje mientras tomo mucho café (a veces demasiado)☕.
 
-- 🌱 Aprendiendo: Ciencia de datos y ciberseguridad desde los fundamentos
+- 🌱 Aprendiendo: Ciencia de datos, ciberseguridad y desarrollo web desde los fundamentos.
 - 🎯 Intereses: Machine learning, hacking ético, automatización, los ordenadores, videojuegos y mucho más,  
-- 💻 Mi setup: VS Code como IDE principal en Linux
-- 📚 Objetivo: Compartir mi journey de aprendizaje y conectar con la comunidad tech
-- ⚗️ Experimento con: Python, herramientas de pentesting, herramientas de osint, y metodologías de investigación
+- 💻 Mi setup: VS Code como IDE principal en Linux y Figma como entorno de desarrollo para UI.
+- 📚 Objetivo: Compartir mi journey de aprendizaje y conectar con la comunidad tech.
+- ⚗️ Experimento con: Python, herramientas de pentesting, herramientas de osint, y metodologías de investigación.
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/6a/de/3d/6ade3d7fd1688f0f3ebd788afb98baaf.jpg" alt="Rem coding" width="300"/>
@@ -103,7 +103,7 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
 - ☕ Poniendo mi corazón al limite
 - 🔧 Configurando y personalizando mi entorno de desarrollo
 -   Disfrutando de juegos mientras desconecto
--  󱉟 Leer comics, mangas y ver animes
+-  󱉟 Leyendo comics, mangas y viendo animes
 
 
 <div align="center">
