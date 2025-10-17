@@ -99,9 +99,7 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
 ## 🏅 Mis Insignias
 
 <p align="center">
-  <a href="https://www.credly.com/badges/01e0ee60-8981-4e76-a6c0-b0f615811a5c/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/placeholder-badge.png" alt="Credly Badge" width="150" height="150" />
-  </a>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01e0ee60-8981-4e76-a6c0-b0f615811a5c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 
 <p align="center">
