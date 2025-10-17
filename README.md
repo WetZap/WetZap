@@ -96,6 +96,22 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
 - 💡 Documentar mi progreso y compartir lo aprendido
 - 🤝 Conectar con otros developers y estudiantes
 
+## 🏅 Mis Insignias
+
+<p align="center">
+  <a href="https://www.credly.com/badges/01e0ee60-8981-4e76-a6c0-b0f615811a5c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/placeholder-badge.png" alt="Credly Badge" width="150" height="150" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com" target="_blank">
+    Ver más certificaciones en Credly
+  </a>
+</p>
+
+
+
 ## 🌟 Cuando no estoy programando...
 
 - 🏋️‍♂️ Entrenando en el gimnasio y optimizando rutinas
