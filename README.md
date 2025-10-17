@@ -125,7 +125,7 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
 </div>  
 
 ## 💬 Conecta Conmigo
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01e0ee60-8981-4e76-a6c0-b0f615811a5c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ¿Te interesa compartir experiencias de aprendizaje o colaborar en proyectos? ¡Hablemos!
 
 
