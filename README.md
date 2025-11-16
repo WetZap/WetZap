@@ -103,6 +103,7 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
   <img src="https://images.credly.com/size/220x220/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/images/2fdda845-70ac-493d-9f37-533773d63be0/image.png" alt="Credly" width="150"/>
+  <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Credly" width="150"/>
 
   </div>
 </p>
