@@ -111,8 +111,8 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
 </p>
 
 <p align="left">
-  <a href="https://www.credly.com" target="_blank">
-    Ver más certificaciones en Credly
+  <a href="https://www.credly.com/users/jorge-del-rio-lopez" target="_blank">
+    Ver mi perfil de Credly.
   </a>
 </p>
 
