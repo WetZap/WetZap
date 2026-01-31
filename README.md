@@ -101,16 +101,17 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
 <p align="center">
 
   <img src="https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Credly" width="150"/>
+  <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Credly" width="150"/>
+
+  <img src="https://images.credly.com/size/680x680/images/1fb00135-23d3-42e9-a745-c7627e8a84bf/image.png" alt="Credly" width="150"/>
+
   <img src="https://images.credly.com/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/images/2fdda845-70ac-493d-9f37-533773d63be0/image.png" alt="Credly" width="150"/>
-  <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/size/680x680/images/82e061d5-ce91-403d-8078-f213fd03ac62/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/size/680x680/images/8ea090d1-d6da-43f3-8ce2-940ab5345f22/image.png" alt="Credly" width="150"/>
-    
   <img src="https://images.credly.com/size/680x680/images/7ff0d7c3-7a73-4eb2-b364-19c20a94eb47/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/size/680x680/images/571003e2-ef76-460e-be64-60029c3c7cbc/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/size/680x680/images/c1ed7bae-5661-4522-8a03-a5064895952d/image.png" alt="Credly" width="150"/>
-  <img src="https://images.credly.com/size/680x680/images/1fb00135-23d3-42e9-a745-c7627e8a84bf/image.png" alt="Credly" width="150"/>
 
  
   </div>
