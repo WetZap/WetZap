@@ -107,9 +107,10 @@ Actualmente estoy en proceso de aprendizaje en multiples áreas - Ciencia de dat
   <img src="https://images.credly.com/size/680x680/images/82e061d5-ce91-403d-8078-f213fd03ac62/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/size/680x680/images/8ea090d1-d6da-43f3-8ce2-940ab5345f22/image.png" alt="Credly" width="150"/>
     
-  <img src="https://images.credly.com/size/160x160/images/7ff0d7c3-7a73-4eb2-b364-19c20a94eb47/image.png" alt="Credly" width="150"/>
-  <img src="https://images.credly.com/size/160x160/images/571003e2-ef76-460e-be64-60029c3c7cbc/image.png" alt="Credly" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/7ff0d7c3-7a73-4eb2-b364-19c20a94eb47/image.png" alt="Credly" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/571003e2-ef76-460e-be64-60029c3c7cbc/image.png" alt="Credly" width="150"/>
   <img src="https://images.credly.com/size/680x680/images/c1ed7bae-5661-4522-8a03-a5064895952d/image.png" alt="Credly" width="150"/>
+  <img src="https://images.credly.com/size/680x680/images/1fb00135-23d3-42e9-a745-c7627e8a84bf/image.png" alt="Credly" width="150"/>
 
  
   </div>
