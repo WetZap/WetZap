@@ -32,7 +32,7 @@
     .:///ossssssssssssssssssssssssso++:        CPU : CaffeineCore X1-Turbo
   `:////ssssssssssssssssssssssssssso+++.       GPU : IrisVision GT                                                                   
 `-////+ssssssssssssssssssssssssssso++++-       Memory : -22.00 GiB / 30.28 GiB                                                       
- `..-+oosssssssssssssssssssssssso+++++/`       Uptime  : 19 years                                                                    
+ `..-+oosssssssssssssssssssssssso+++++/`       Uptime  : 20 years                                                                    
    ./++++++++++++++++++++++++++++++/:.      └──────────────────────────────────────────┘
   `:::::::::::::::::::::::::------``           
 ```
