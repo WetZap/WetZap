@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Jorge (WetZap) 👋☕
 
-**Estudiante de Física en la Universidad de Granada** · física computacional, Linux y ciberseguridad
+**Estudiante de Física en la Universidad de Granada** · Adoro la física computacional, Linux y ciberseguridad
 
 
 [![Correo](https://img.shields.io/badge/Proton_Mail-jotarl%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:jotarl@proton.me)
