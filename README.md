@@ -23,7 +23,7 @@
 
   </td>
     <td align="right" width="550">
-      <img src="Images/Bocci.gif" alt="Bocchi" width="600"/>
+      <img src="Images/Bocci.gif" alt="Bocchi" width="500"/>
     </td>
   </tr>
 </table>
