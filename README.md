@@ -4,7 +4,6 @@
 
 **Estudiante de Física en la Universidad de Granada** · física computacional, Linux y ciberseguridad
 
-*Nunca mires atrás* 🚀
 
 [![Correo](https://img.shields.io/badge/Proton_Mail-jotarl%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:jotarl@proton.me)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Jorge%20del%20R%C3%ADo-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/)
@@ -31,21 +30,22 @@
 </div>
 
 ```
-                     ./o.
-                   ./sssso-                 wetzap@thinkpad
-                 `:osssssss+-               ───────────────────────────────────
-               `:+sssssssssso/.             OS        EndeavourOS · Kali (dual boot)
-             `-/ossssssssssssso/.           Host      ThinkPad E14 Gen 7
-           `-/+sssssssssssssssso+:`         WM        Hyprland (config propia)
-         `-:/+sssssssssssssssssso+/.        Terminal  kitty + zsh + starship
-       `.://osssssssssssssssssssso++-       Theme     Tokyo Night
-      .://+ssssssssssssssssssssssso++:      Dotfiles  chezmoi
-    .:///ossssssssssssssssssssssssso++:     Editor    VS Code · Vim
-  `:////ssssssssssssssssssssssssssso+++.    Langs     Python · Fortran · C · LaTeX
-`-////+ssssssssssssssssssssssssssso++++-    CPU       CaffeineCore X1-Turbo
- `..-+oosssssssssssssssssssssssso+++++/`    Uptime    20 years
-   ./++++++++++++++++++++++++++++++/:.      Status    compilando la carrera...
-  `:::::::::::::::::::::::::------``
+                                            ┌──────────────────────────────────────────┐
+                     ./o.                      OS : EndeavourOS
+                   ./sssso-                    Kernel : 6.16.8-arch3-1
+                 `:osssssss+-                  Display : 1920x1200 @ 60Hz 
+               `:+sssssssssso/.                >_ Terminal : kitty 
+             `-/ossssssssssssso/.              WM : Hyprland
+           `-/+sssssssssssssssso+:`         └──────────────────────────────────────────┘
+         `-:/+sssssssssssssssssso+/.
+       `.://osssssssssssssssssssso++-          WetZap @ WetZap-thinkpad
+      .://+ssssssssssssssssssssssso++:      ┌──────────────────────────────────────────┐
+    .:///ossssssssssssssssssssssssso++:        CPU : CaffeineCore X1-Turbo
+  `:////ssssssssssssssssssssssssssso+++.       GPU : IrisVision GT                                                                   
+`-////+ssssssssssssssssssssssssssso++++-       Memory : -22.00 GiB / 30.28 GiB                                                       
+ `..-+oosssssssssssssssssssssssso+++++/`       Uptime  : 20 years                                                                    
+   ./++++++++++++++++++++++++++++++/:.      └──────────────────────────────────────────┘
+  `:::::::::::::::::::::::::------``  
 ```
 
 ## 👨‍💻 Sobre mí
@@ -110,7 +110,7 @@ Si quieres colaborar o charlar de física, Linux o ciber, escríbeme por cualqui
 - 🍀 Estudiando y rezando a la diosa Fortuna
 
 <div align="center">
-  <img src="Images/Frieren.jpg" alt="Frieren" width="300"/>
+  <img src="Images/Hollow.jpg" alt="Hollow" width="300"/>
 </div>
 
 ---
