@@ -6,7 +6,7 @@
 
 
 [![Correo](https://img.shields.io/badge/Proton_Mail-jotarl%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:jotarl@proton.me)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Jorge%20del%20R%C3%ADo-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Jorge%20del%20R%C3%ADo-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](www.linkedin.com/in/jorge-del-río-lópez-)
 ![Discord](https://img.shields.io/badge/Discord-wetzap-5865F2?style=flat-square&logo=discord&logoColor=white)
 [![Credly](https://img.shields.io/badge/Credly-insignias-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/jorge-del-rio-lopez)
 
