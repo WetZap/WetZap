@@ -78,7 +78,7 @@ Si quieres colaborar o charlar de física, Linux o ciber, escríbeme por cualqui
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-opal-nine-53.vercel.app/api?username=WetZap&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!--<img src="https://github-readme-stats-opal-nine-53.vercel.app/api?username=WetZap&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />!-->
   <img src="https://github-readme-stats-opal-nine-53.vercel.app/api/top-langs/?username=WetZap&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
